@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Playablead_Master
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: WebGL
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 29
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+      enableAlphaDilation: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 4749cda229b301841b598dc032c4c4cc, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -1195740232, guid: 5e3a2a61841baf6448c35d19ff651a70, type: 3}
+  - {fileID: 21300000, guid: 92a69191fadb0b04199f21b6d44e0ac1, type: 3}
+  - {fileID: 21300000, guid: 785cc8824ef2e0e42914931a143513fe, type: 3}
+  - {fileID: 21300000, guid: 54da6ac3490484c47b5dc7fb4ebbe842, type: 3}
+  - {fileID: 21300000, guid: a9dbf3d30cf15ad42b8492b9fce0999b, type: 3}
+  - {fileID: 21300000, guid: 8fdc5db67fa862346b77e2e5c89412f2, type: 3}
+  - {fileID: 21300000, guid: 1a31c9d841eb08847b022b9ee0411c9b, type: 3}
+  - {fileID: 21300000, guid: 04fd6469a3ebc1544808fb91c0ec85a7, type: 3}
+  - {fileID: 21300000, guid: 7b70794a721d5a841a7a82d680240a24, type: 3}
+  - {fileID: 21300000, guid: 93215e6a1a5c7e34585e9ca2865998e1, type: 3}
+  - {fileID: 21300000, guid: 4e2536dbd0f663246af2cfd3649476eb, type: 3}
+  - {fileID: 21300000, guid: 594ec54c20ba1d142ac1f151b8860e51, type: 3}
+  - {fileID: 21300000, guid: 4f376ebc7d674ec48af0e27985e09329, type: 3}
+  - {fileID: 378216278, guid: 4c3b8decf6440d1448eea956de0783f7, type: 3}
+  - {fileID: 21300000, guid: 5089cfcd4bd3eee4dadf8b5dc3fb593f, type: 3}
+  - {fileID: -1293701391, guid: 7483a62ed1d03134682627cf81a9ebdd, type: 3}
+  - {fileID: 1898631779, guid: 7483a62ed1d03134682627cf81a9ebdd, type: 3}
+  - {fileID: -516195707, guid: 7483a62ed1d03134682627cf81a9ebdd, type: 3}
+  - {fileID: -314340856, guid: 7483a62ed1d03134682627cf81a9ebdd, type: 3}
+  - {fileID: 1557824239, guid: 7483a62ed1d03134682627cf81a9ebdd, type: 3}
+  - {fileID: 399908744, guid: 7483a62ed1d03134682627cf81a9ebdd, type: 3}
+  - {fileID: 803422257, guid: 7483a62ed1d03134682627cf81a9ebdd, type: 3}
+  - {fileID: 746789378, guid: 7483a62ed1d03134682627cf81a9ebdd, type: 3}
+  - {fileID: -1341711393, guid: 7483a62ed1d03134682627cf81a9ebdd, type: 3}
+  - {fileID: 2141964715, guid: 7483a62ed1d03134682627cf81a9ebdd, type: 3}
+  - {fileID: 21300000, guid: 4fc2f2cfd9744804cbb99b683b7d3d85, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Canfinddiff_0
+  - _0000s_0000_frame_1 (5)
+  - _0000s_0000_frame_1 (2)
+  - Gray_Button
+  - _0000s_0000_frame_1 (6)
+  - _0000s_0000_frame_1 (1)
+  - _0000s_0000_frame_1 (4)
+  - _0000s_0000_frame_1 (3)
+  - _0000s_0000_frame_1 (7)
+  - Star
+  - _0000s_0000_frame_1 (8)
+  - _0000s_0000_frame_1 (9)
+  - Purple_Glow_Button
+  - DOWNLOAD_0
+  - Elipse_Green
+  - FontAtlas_8
+  - FontAtlas_9
+  - FontAtlas_0
+  - FontAtlas_1
+  - FontAtlas_2
+  - FontAtlas_3
+  - FontAtlas_4
+  - FontAtlas_5
+  - FontAtlas_6
+  - FontAtlas_7
+  - _0000s_0000_frame_1 (10)
+  m_RenderDataMap: {}
+  m_Tag: Playablead_Master
+  m_IsVariant: 0
