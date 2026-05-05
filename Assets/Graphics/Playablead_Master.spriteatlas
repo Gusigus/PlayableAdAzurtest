@@ -66,6 +66,7 @@ SpriteAtlas:
     cachedData: {fileID: 0}
   m_MasterAtlas: {fileID: 0}
   m_PackedSprites:
+  - {fileID: 21300000, guid: e65edc209e8a46c49abf011042952d2b, type: 3}
   - {fileID: -1195740232, guid: 5e3a2a61841baf6448c35d19ff651a70, type: 3}
   - {fileID: 21300000, guid: 92a69191fadb0b04199f21b6d44e0ac1, type: 3}
   - {fileID: 21300000, guid: 2e5f4232afb47e747b2d2afdfa44a13f, type: 3}
@@ -86,6 +87,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 4f376ebc7d674ec48af0e27985e09329, type: 3}
   - {fileID: 378216278, guid: 4c3b8decf6440d1448eea956de0783f7, type: 3}
   - {fileID: 21300000, guid: 5089cfcd4bd3eee4dadf8b5dc3fb593f, type: 3}
+  - {fileID: 21300000, guid: f123fd1e7b5638946bcd6bf61a817e17, type: 3}
   - {fileID: -1293701391, guid: 7483a62ed1d03134682627cf81a9ebdd, type: 3}
   - {fileID: 1898631779, guid: 7483a62ed1d03134682627cf81a9ebdd, type: 3}
   - {fileID: -516195707, guid: 7483a62ed1d03134682627cf81a9ebdd, type: 3}
@@ -99,6 +101,7 @@ SpriteAtlas:
   - {fileID: 1185182630467409113, guid: 3565047fe16100445ace3e1beeccb8ff, type: 3}
   - {fileID: 21300000, guid: 4fc2f2cfd9744804cbb99b683b7d3d85, type: 3}
   m_PackedSpriteNamesToIndex:
+  - Green_Check
   - Canfinddiff_0
   - _0000s_0000_frame_1 (5)
   - Gradient
@@ -119,6 +122,7 @@ SpriteAtlas:
   - Purple_Glow_Button
   - DOWNLOAD_0
   - Elipse_Green
+  - Finger
   - FontAtlas_8
   - FontAtlas_9
   - FontAtlas_0
