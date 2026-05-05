@@ -6,7 +6,7 @@
 
 Основной упор при разработке был сделан на экстремальную оптимизацию веса проекта, производительность, безупречную адаптивность UI и поддержание строгой, интуитивно понятной иерархии сцены и файловой системы.
 
-![Gameplay Preview](Media/gameplay.gif)
+![Gameplay Preview](https://github.com/Gusigus/PlayableAdAzurtest/raw/refs/heads/main/Media/gameplay.gif)
 
 ## 🛠 Технические характеристики
 * **Версия Unity:** 2021.3.27 (согласно ТЗ)
