@@ -13,6 +13,8 @@
 * **Интеграция анимаций:** Spine 2D Runtime 3.8 (Custom Cleaned)
 * **Размер итогового WebGL билда:** ~4.57 MB (С учетом компрессии. Что бы выложить проект на github pages пришлось выключить компрессии)
 * **Целевые платформы:** WebGL 
+Атлас из 2 частей весом 20Kb
+![Art Atlas Preview](https://github.com/Gusigus/PlayableAdAzurtest/raw/refs/heads/main/Media/ArtAssets_Preview.png)
 
 ## 🚀 Ключевые архитектурные решения
 
